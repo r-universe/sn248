@@ -5,6 +5,9 @@
 [submodule "Rcppautodiff"]
 	path = Rcppautodiff
 	url = https://github.com/sn248/rcppautodiff
+[submodule "r2sbml"]
+	path = r2sbml
+	url = https://github.com/sn248/r2sbml
 [submodule "sundialr"]
 	path = sundialr
 	url = https://github.com/sn248/sundialr
